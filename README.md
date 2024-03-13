@@ -9,5 +9,5 @@ This is the place where I shoot my codes, opensource stuff and break things 🤣
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Flutter & new things in Next.js
 - 💬 Ask me about... Hold on. You can access ChatGPT now 🤷‍♂️
-- 📫 DM me on through <a href="https://wa.me/+94778503030">@Safi</a>
+- 📫 Say "Hi" to me <a href="mailto:safiullahahamed@gmail.com">safiullahahamed@gmail.com</a>
 - ⚡ Fun fact: I ❤️ 🏕️, 🍱🍟 & 🛌🏻...
