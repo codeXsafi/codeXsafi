@@ -4,8 +4,6 @@
   <img align="right" alt="Coding" width="100%" src="https://raw.githubusercontent.com/codeXsafi/codeXsafi/main/banner.jpg">
 </figure> -->
 
-**codeXsafi/codeXsafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 This is the place where I shoot my codes, opensource stuff and break things 🤣
 
 - 🔭 I’m currently working on something cool 😉
