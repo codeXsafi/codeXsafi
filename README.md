@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a style="margin-bottom:1rem;overflow:hidden;max-height:200px;">
+  <img align="right" alt="Coding" width="100%" src="https://raw.githubusercontent.com/codeXsafi/codeXsafi/main/banner.jpg">
+</figure>
+
 <!--
 **codeXsafi/codeXsafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
