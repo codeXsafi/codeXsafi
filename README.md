@@ -11,3 +11,5 @@ This is the place where I shoot my codes, opensource stuff and break things 🤣
 - 💬 Ask me about... Hold on. You can access ChatGPT now 🤷‍♂️
 - 📫 Say "Hi" to me <a href="mailto:safiullahahamed@gmail.com">safiullahahamed@gmail.com</a>
 - ⚡ Fun fact: I ❤️ 🏕️, 🍱🍟 & 🛌🏻...
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
