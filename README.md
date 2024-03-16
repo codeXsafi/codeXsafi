@@ -20,6 +20,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 ### Languages & Tools:
 
-#### Joke of the day:
+#### Blink of the day:
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?&theme=dark)
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23151515)
