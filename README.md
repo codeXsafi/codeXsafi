@@ -21,5 +21,5 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 ### Languages & Tools:
 
 #### Joke of the day:
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?&theme=dark)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
