@@ -16,9 +16,10 @@ I'm <a href="https://www.safiullahahamed.com/">Safiullah Ahamed</a>, a passionat
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and love how collaboration and knowledge sharing happened through open-source.
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ### Languages & Tools:
 
 #### Joke of the day:
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?&theme=dark)
