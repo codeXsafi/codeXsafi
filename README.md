@@ -22,4 +22,4 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 #### Blink of the day:
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?&theme=dark)
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23151515&textColor=%239f9f9f)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23151515&textColor=%23ffffff&qColor=%239f9f9f)
